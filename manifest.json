@@ -3,10 +3,10 @@
   "description": "Cyberverse studios",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Merge Cake Cheif",
+  "name": "Merge Cakes Chief",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Merge Cake Cheif",
+  "short_name": "Merge Cakes Chief",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Merge Cake Cheif",
+      "name": "Merge Cakes Chief",
       "url": "",
       "description": ""
     }
