@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Logic Loom Creations",
+  "description": "Byte Brilliance",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Merge Cakes:Chief",
+  "name": "Merge Cakes: Chief",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Merge Cakes:Chief",
+  "short_name": "Merge Cakes: Chief",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Merge Cakes:Chief",
+      "name": "Merge Cakes: Chief",
       "url": "",
       "description": ""
     }
